@@ -1,0 +1,1 @@
+Sistema de Gestión de Clínica Médica MVC con Flask y SQLAlchemy
